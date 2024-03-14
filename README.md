@@ -14,6 +14,8 @@ Este proyecto es una aplicación de detección de estacionamiento que utiliza un
 - **Modelo de Detección:** YOLO (You Only Look Once)
 - **Librerías:** OpenCV, TensorFlow
 
+![funcionalidad](IA.gif)
+
 ## Cómo Usar la Aplicación
 
 1. **Instalación de Dependencias:**
